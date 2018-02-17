@@ -129,7 +129,7 @@
     </Compile>
     <Compile Include="Model\ErrorItemClass.cs" />
     <Compile Include="Model\FilelistItemClass.cs" />
-    <Compile Include="Model\FileOperationsClass.cs" />
+    <Compile Include="ViewModel\FileOperationsClass.cs" />
     <Compile Include="View\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
